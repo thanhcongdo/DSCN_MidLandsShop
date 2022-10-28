@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0G67oG0jOB6TgSxTfvECxsgDrhdO28KHmwMSUth/UDNV5GZPNllFUMQzufRcuQGG/MCfyR3SJsAoofBNlWiEnw==",
+  "dgSpecHash": "SGqXiV25iOOF9yrPLk5EdOYlUmxXm2kUAzd4lxnXiaikdciNQTdcdXu0NF8Ss4s+J8RJ5S6wTk2mTM6rCrr/WQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hiiii\\Desktop\\MidLands Shop\\MidLandsShop\\MidLandsShop\\MidLandsShop.csproj",
+  "projectFilePath": "C:\\Users\\Hiiii\\Desktop\\DSCN_MidLandsShop\\MidLandsShop\\MidLandsShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hiiii\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Hiiii\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

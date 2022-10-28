@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hiiii\\Desktop\\MidLands Shop\\MidLandsShop\\MidLandsShop\\MidLandsShop.csproj": {}
+    "C:\\Users\\Hiiii\\Desktop\\DSCN_MidLandsShop\\MidLandsShop\\MidLandsShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hiiii\\Desktop\\MidLands Shop\\MidLandsShop\\MidLandsShop\\MidLandsShop.csproj": {
+    "C:\\Users\\Hiiii\\Desktop\\DSCN_MidLandsShop\\MidLandsShop\\MidLandsShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hiiii\\Desktop\\MidLands Shop\\MidLandsShop\\MidLandsShop\\MidLandsShop.csproj",
+        "projectUniqueName": "C:\\Users\\Hiiii\\Desktop\\DSCN_MidLandsShop\\MidLandsShop\\MidLandsShop.csproj",
         "projectName": "MidLandsShop",
-        "projectPath": "C:\\Users\\Hiiii\\Desktop\\MidLands Shop\\MidLandsShop\\MidLandsShop\\MidLandsShop.csproj",
+        "projectPath": "C:\\Users\\Hiiii\\Desktop\\DSCN_MidLandsShop\\MidLandsShop\\MidLandsShop.csproj",
         "packagesPath": "C:\\Users\\Hiiii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hiiii\\Desktop\\MidLands Shop\\MidLandsShop\\MidLandsShop\\obj\\",
+        "outputPath": "C:\\Users\\Hiiii\\Desktop\\DSCN_MidLandsShop\\MidLandsShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hiiii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,6 +52,16 @@
               "target": "Package",
               "version": "[6.0.10, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.10, )"
@@ -86,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
